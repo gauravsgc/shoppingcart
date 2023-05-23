@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.item{
+flex:1 0 150px;
+line-break: auto;
+background-color: antiquewhite;
+}

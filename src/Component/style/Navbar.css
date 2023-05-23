@@ -1,0 +1,12 @@
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.mymenu{
+    background-color: goldenrod;
+}
+.nav{
+    display: flex;
+    column-gap: 1em;
+}
