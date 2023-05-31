@@ -19,7 +19,8 @@ setData(res.data);
 },[])
 
 const productAdd=(product)=>{
-dispatch(add(product))
+// console.log(product);
+  dispatch(add(product))
 }
  return (
     <div className='container'>

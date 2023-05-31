@@ -6,7 +6,7 @@ import { useSelector } from 'react-redux';
 //import { UserContext } from './UserContext'
 export const Navbar = () => {
   const items=useSelector((state)=>state.cart);
-  // console.log(items);
+  //  console.log(items);
   //const count = useContext(UserContext);
   // console.log(typeof(count));
   return (
